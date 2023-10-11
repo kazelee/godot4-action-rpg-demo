@@ -1,4 +1,4 @@
-# godot4_action_rpg_demo
+# godot4-action-rpg-demo
 Godot 4 version game-demo duplicating "Action RPG" in uheartbeast's youtube-tutorials.
 
 使用 Godot 4 版本复刻 uheartbeast YouTube 教程中的 “Action RPG”，链接：[Make an Action RPG in Godot 3.2 - YouTube](https://www.youtube.com/watch?v=mAbG8Oi-SvQ&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a)
